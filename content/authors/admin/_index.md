@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I am a MSCS(Thesis) Research Student at Columbia University. I am lucky to work with Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/) and Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/), and finish my MS thesis under Professor Song's supervision as a member of her lab. 
+I am a MSCS(Thesis) Research Student at Columbia University. I am lucky to work with Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/), and Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/), who is also my thesis advisor. 
 
 My research interests...
 
