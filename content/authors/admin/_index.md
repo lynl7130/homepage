@@ -46,10 +46,10 @@ social:
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: envelope
-  icon_pack: fab
+  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
   link: "yl4323@columbia.edu"
-- icon: facebook
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yiqing-liang-137147133/
 - icon: twitter
