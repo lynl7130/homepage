@@ -30,7 +30,7 @@ education:
   - course: MS in Computer Science, Thesis Track
     institution: Columbia University
     year: 2021
-  - course: Visiting Student in Electrical Engieering and Computer Science
+  - course: Visiting Student in Electrical Engineering and Computer Science
     institution: Massachusetts Institute of Technology
     year: 2018
   - course: BSc in Computer Science
