@@ -26,6 +26,7 @@ interests:
 - Information Retrieval
 
 education:
+  courses:
   - course: MS in Computer Science, Thesis Track
     institution: Columbia University
     year: 2021
