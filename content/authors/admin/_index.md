@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yiqing Liang
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MSCS@Columiba
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Professor Shuran Song's group
+  url: "https://www.cs.columbia.edu/~shurans/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
