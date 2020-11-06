@@ -1,5 +1,5 @@
 +++
-title = "SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation"
+title = "SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation (submitted to ICRA 2021)"
 date = "2020-10-31"
 authors = ["Yiqing Liang", "Boyuan Chen", "Shuran Song"]
 publication_types = [3]
