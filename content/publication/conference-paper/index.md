@@ -1,74 +1,28 @@
----
-title: "An example conference paper"
-authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: true
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
++++
+title = "Implementing image analysis in laboratory-based experimental systems for ecology and evolution: a hands-on guide"
+date = "2013-01-01"
+authors = ["Frank Pennekamp", "Nicolas Schtickzelle"]
+publication_types = ["2"]
+publication = "Methods in Ecology and Evolution, (4), 5, _pp. 483--492_, https://doi.org/10.1111/2041-210X.12036"
+publication_short = "Methods in Ecology and Evolution, (4), 5, _pp. 483--492_, https://doi.org/10.1111/2041-210X.12036"
+abstract = "* Experimental laboratory systems (ELS) are widely applied research tools to test theoretical predictions in ecology and evolution. Combining ELS with automated image analysis could significantly boost information acquisition due to the ease at which abundance and morphological data is collected. Despite the advantages of image analysis, the technology has not been fully adopted yet, presumably due to the difficulties of technical implementation. * The tools needed to integrate image analysis in ELS are nowadays readily available: digital camera equipment is purchased at limited costs and free software solutions which allow sophisticated image processing and analysis exist. Here, we give a concise description how to integrate these pieces into a largely automated image analysis workflow. We provide researchers with necessary background information on the principles of image analysis, explaining how to standardize image acquisition and how to validate the results to reduce bias. * Three cross-platform and open-source software solutions for image analysis are compared: ImageJ, the EBImage package in R, and Python with the SciPy/scikit image libraries. The relative strengths and limitations of each solution are compared and discussed. In addition, a set of test images and three scripts are provided in the Online Supplementary Material to illustrate the use of image analysis and help biologists to implement image analysis in their own systems. * To demonstrate the reliability and versatility of a validated image analysis workflow, we introduce our own Tetrahymena thermophila ELS. Then, examples from evolutionary ecology are provided showing the advantages of image analysis to study different ecological questions, aiming at both the population and individual level. * Experimental laboratory systems that integrate the advantages of image analysis extend their application and versatility compared with regular ELS. Such improvements are necessary to understand complex processes such as eco-evolutionary feedbacks, community dynamics and individual behaviour in ELS."
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = []
+tags = []
+url_pdf = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
