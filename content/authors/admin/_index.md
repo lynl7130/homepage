@@ -22,8 +22,8 @@ bio: My research interests include computer vision and semantic understanding.
 
 interests:
 - Artificial Intelligence
-# - Computer Vision
-# - Semantic Understanding
+ - Computer Vision
+ - Semantic Understanding
 
 education:
   courses:
