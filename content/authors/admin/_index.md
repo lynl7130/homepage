@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include computer vision and semantic understanding.
 
 interests:
-- Artificial Intelligence
- - Computer Vision
- - Semantic Understanding
+  Artificial Intelligence:
+    - Computer Vision
+    - Semantic Understanding
 
 education:
   courses:
@@ -63,9 +63,9 @@ social:
   link: https://github.com/lynl7130
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -80,5 +80,7 @@ user_groups:
 I am a MSCS(Thesis) Research Student at Columbia University. I am lucky to work with Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/), who is also my thesis advisor.  
 
 My research interests mainly lie in computer vison and semantic understanding.
+
+Learn more about me from my [CV](https://github.com/lynl7130/homepage/blob/master/content/authors/admin/CV_Yiqing%20Liang.pdf).
 
 
