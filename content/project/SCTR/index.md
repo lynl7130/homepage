@@ -1,5 +1,5 @@
 ---
-title: SCTR: Scene Completion Transformer
+title: "SCTR: Scene Completion Transformer"
 summary: A novel indoor scene completion method by making use of Transformer-based models’s capability of capturing high-level commonsense context to build hierarchical indoor scene graphs.
 
 # tags:
