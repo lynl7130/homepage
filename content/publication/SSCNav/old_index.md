@@ -35,10 +35,10 @@ url_pdf: ''
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
-url_project = http://sscnav.cs.columbia.edu
-url_slides = ""
-url_video = https://www.youtube.com/watch?v=tfBbdGS72zg&feature=youtu.be
-url_source = ""
+url_project: http://sscnav.cs.columbia.edu
+url_slides: ""
+url_video: https://www.youtube.com/watch?v=tfBbdGS72zg&feature=youtu.be
+url_source: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
