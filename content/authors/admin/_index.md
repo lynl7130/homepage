@@ -81,6 +81,6 @@ I am a MSCS (Thesis) Research Student at Columbia University. I am lucky to work
 
 My research interests mainly lie in computer vison and semantic understanding.
 
-Learn more about me from my [CV](https://github.com/lynl7130/homepage/blob/master/content/authors/admin/CV_Yiqing%20Liang.pdf).
+Learn more about me from my [CV](files/CV_Yiqing%20Liang.pdf).
 
 
