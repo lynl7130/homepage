@@ -2,8 +2,8 @@
 title: "SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation (submitted to ICRA 2021)"
 authors:
 - Yiqing Liang
-- [Boyuan Chen](http://www.cs.columbia.edu/~bchen/)
-- (Shuran Song)[https://shurans.github.io/]
+- Boyuan Chen
+- Shuran Song
 date: "2019-10-31T00:00:00Z"
 doi: ""
 
