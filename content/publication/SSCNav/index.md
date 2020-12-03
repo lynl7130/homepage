@@ -65,3 +65,4 @@ slides: example
 image:
   placement = 1
 
+---
