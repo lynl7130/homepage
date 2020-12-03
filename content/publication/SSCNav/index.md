@@ -45,6 +45,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
+  placement: 1
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,7 +63,4 @@ slides: example
 ---
 
 
-image:
-  placement = 1
 
----
