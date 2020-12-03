@@ -1,6 +1,6 @@
 ---
 title: "Semantically Relevant Scene Graphs for Visual Commonsense Reasoning (submitted to CVPR 2021)"
-authors:[]
+# authors:[]
 date: "2019-11-16T00:00:00Z"
 doi: ""
 
