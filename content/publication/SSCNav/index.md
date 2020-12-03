@@ -9,6 +9,8 @@ abstract = "This paper focuses on visual semantic navigation, the task of produc
 abstract_short = ""
 image_preview = "https://sscnav.cs.columbia.edu/images/teaser.gif"
 selected = false
+image:
+  placement = 1
 projects = []
 tags = []
 url_pdf = ""
