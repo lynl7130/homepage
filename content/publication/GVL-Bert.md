@@ -22,6 +22,6 @@ url_source = ""
 math = true
 highlight = true
 [header]
-image = ""
+image = "media/Picture15.pdf"
 caption = ""
 +++
