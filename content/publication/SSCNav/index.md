@@ -25,18 +25,19 @@ abstract: This paper focuses on visual semantic navigation, the task of producin
 # Summary. An optional shortened abstract.
 summary: Justified that explicitly utilizing scene priors in the form of semantic scene completion with self-calibrated confidence estimation and spatial action map could help object-goal navigation.
 
-
+tags: []
 
 featured: false
 
+links: []
 
-url_pdf: 
+url_pdf: ''
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
-url_project = "http://sscnav.cs.columbia.edu"
+url_project = http://sscnav.cs.columbia.edu
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=tfBbdGS72zg&feature=youtu.be"
+url_video = https://www.youtube.com/watch?v=tfBbdGS72zg&feature=youtu.be
 url_source = ""
 
 # Featured image
@@ -52,7 +53,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects: []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
