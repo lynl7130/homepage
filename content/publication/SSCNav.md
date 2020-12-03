@@ -23,6 +23,6 @@ url_source = ""
 math = true
 highlight = true
 [header]
-image = ""
+image = "https://sscnav.cs.columbia.edu/images/teaser.gif"
 caption = ""
 +++
