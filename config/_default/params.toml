@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = "Coffee"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Schapiro Center, 530 West 120th Street", city = "New York", region = "NY", postcode = "10027", country = "United States", country_code = "US"}
+address = {street = "Room 103, Brown CIT, 115 Waterman St", city = "Providence", region = "RI", postcode = "02906", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.809776", longitude = "-73.960808"}
+coordinates = {latitude = "41.82740233470387", longitude = " -71.39906791534253"}
 
 # Directions for visitors to locate you.
-directions = "Enter Schapiro Center and take the elevators to Floor 6"
+# directions = "Enter CIT and take the elevators to Floor "
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -112,7 +112,7 @@ office_hours = []
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:yl4323@columbia.edu"}
+  {icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:yiqing_liang@brown.edu"}
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
