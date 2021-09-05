@@ -85,6 +85,6 @@ I am a PhD student in CS at Brown University, a member of [Brown Visual Computin
 Prior to that, I received my Master in Computer Science from Columbia University, advised by Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/). I completed my Bachelor in Computer Science at Fudan University.
 
 
-Learn more about me from my [CV](files/CV_Yiqing%20Liang.pdf).
+Learn more about me from my [CV](files/CV_Yiqing_Liang(3).pdf).
 
 
