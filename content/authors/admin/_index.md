@@ -10,23 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: MSCS@Columiba
+role: PhD@Brown CS
 
 # Organizations/Affiliations
 organizations:
-- name: Professor Shuran Song's group
-  url: "https://www.cs.columbia.edu/~shurans/index.html"
+- name: Brwn Visual Computing
+  url: "https://visual.cs.brown.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and semantic understanding.
+bio: My research interests include computer vision and scene understanding.
 
 interests:
 - Artificial Intelligence
 - Computer Vision
-- Semantic Understanding
+- Scene Understanding
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Brown University
+    year: 2026
   - course: MS in Computer Science, Thesis Track
     institution: Columbia University
     year: 2021
@@ -48,19 +51,19 @@ social:
 - icon: envelope
   icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: "mailto:yl4323@columbia.edu"
+  link: "mailto:yiqing_liang@brown.edu"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yiqing-liang-137147133/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YiqingLiang2
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/lynl7130
+- icon: google-scholar
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=TlUl6mUAAAAJ
+ - icon: github
+   icon_pack: fab
+   link: https://github.com/lynl7130
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,9 +80,10 @@ user_groups:
 - Visitors
 ---
 
-I am a MSCS (Thesis) Research Student at Columbia University. I am fortunate to work with Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/), who is also my thesis advisor.  
+I am a PhD student in CS at Brown University, a member of [Brown Visual Computing Group](https://visual.cs.brown.edu/). I am very fortunate to have Professor [James Tompkin](https://jamestompkin.com/) as my advisor. My research interests mainly lie in computer vison and scene understanding.
 
-My research interests mainly lie in computer vison and semantic understanding.
+Prior to that, I received my Master in Computer Sciene from Columbia University, advised by Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/). I completed my Bachelor in Computer Science at Fudan University.
+
 
 Learn more about me from my [CV](files/CV_Yiqing%20Liang.pdf).
 
