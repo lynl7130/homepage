@@ -270,7 +270,7 @@ plugins_js  = []
   # engine = 2
   provider = 'mapnik'
   api_key = ""
-  zoom = 30
+  zoom = 22
 
 ############################
 ## Marketing
