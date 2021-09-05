@@ -1,5 +1,5 @@
 ---
-title: "SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation (submitted to ICRA 2021)"
+title: "SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation (ICRA 2021)"
 # authors:
 # - Yiqing Liang
 # - Boyuan Chen
