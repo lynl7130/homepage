@@ -14,7 +14,7 @@ role: PhD@Brown CS
 
 # Organizations/Affiliations
 organizations:
-- name: Brwn Visual Computing
+- name: Brown Visual Computing
   url: "https://visual.cs.brown.edu/"
 
 # Short bio (displayed in user profile at end of posts)
