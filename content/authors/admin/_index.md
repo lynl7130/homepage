@@ -82,7 +82,7 @@ user_groups:
 
 I am a PhD student in CS at Brown University, a member of [Brown Visual Computing Group](https://visual.cs.brown.edu/). I am very fortunate to have Professor [James Tompkin](https://jamestompkin.com/) as my advisor. My research interests mainly lie in computer vison and scene understanding.
 
-Prior to that, I received my Master in Computer Sciene from Columbia University, advised by Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/). I completed my Bachelor in Computer Science at Fudan University.
+Prior to that, I received my Master in Computer Science from Columbia University, advised by Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/). I completed my Bachelor in Computer Science at Fudan University.
 
 
 Learn more about me from my [CV](files/CV_Yiqing%20Liang.pdf).
