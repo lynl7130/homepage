@@ -239,6 +239,7 @@ plugins_js  = []
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
   engine = 2
+  provider: wowchemy
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
