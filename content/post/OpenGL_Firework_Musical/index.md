@@ -35,6 +35,5 @@ categories:
 ---
 
 
-<iframe src="https://youtu.be/hpem65r0NL0" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:640px;width:100%;border:none;overflow:hidden;"</iframe>
-
+<iframe onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));'  style="height:640px;width:100%;border:none;overflow:hidden;" src="https://www.youtube.com/embed/hpem65r0NL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
