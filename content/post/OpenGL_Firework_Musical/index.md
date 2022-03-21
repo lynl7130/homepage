@@ -33,6 +33,6 @@ categories:
 - Art
 - Demo
 ---
-<iframe src="https://drive.google.com/file/d/1hyieQS2E943FDlRsd6vWihqmWJTs_Je6/preview" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:100%;width:100%;border:none;overflow:hidden;"</iframe>
+<iframe src="https://drive.google.com/file/d/1hyieQS2E943FDlRsd6vWihqmWJTs_Je6/preview" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="width:100%;border:none;overflow:hidden;"</iframe>
 
 
