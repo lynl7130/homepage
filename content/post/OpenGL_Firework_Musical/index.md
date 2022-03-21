@@ -1,5 +1,5 @@
 ---
-title: Water Fireworks get cancelled due to COVID? Check out this virtual show!
+title: Water Fireworks get cancelled due to COVID? Check out this Virtual Show!
 subtitle: Empowered by OpenGL and C++, a night musical play comes to life. 
 
 # Summary for listings and search engines
@@ -34,6 +34,6 @@ categories:
 - Demo
 ---
 
-## Overview
+
 
 
